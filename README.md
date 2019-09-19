@@ -1,7 +1,7 @@
 # Anomaly_Detection
 
 ## 1- Autoencoder Neural Network
-In this project I built an autoencoder neural network using *Keras* to forecast failure in a four bearing system using [NASA Acoustics and Vibration Database](http://data-acoustics.com/measurements/bearing-faults/bearing-4/) that contains three sets of data. Each data is consisting of four bearings which had been run under constant running condition to failure. Here in this project, second test's data is used to train the autoencoder NN model. Once you download the [database](http://ti.arc.nasa.gov/c/3/), you can get more details on the conducted vibration experiments and the structure of data through reading the *Readme* file attached to it. 
+In this projec, an autoencoder neural network is built using *Keras* to forecast failure in a four bearing system using [NASA Acoustics and Vibration Database](http://data-acoustics.com/measurements/bearing-faults/bearing-4/) that contains three sets of data. Each data is consisting of four bearings which had been run under constant running condition to failure. Here in this project, second test's data is used to train the autoencoder NN model. Once you download the [database](http://ti.arc.nasa.gov/c/3/), you can get more details on the conducted vibration experiments and the structure of data through reading the *Readme* file attached to it. 
 
 To run this code in __jupyter notebook__, you need to change the directory of data, *data_dir*, to what it is on your hard drive. The general idea of using autoencoder NN is to train the NN model using the normal running condition data, so any deviation from it might result in failure.
 
