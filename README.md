@@ -21,7 +21,7 @@ For this project, you need to download the database using this link:
   * [NASA Acoustics and Vibration Database](http://ti.arc.nasa.gov/c/3/) 
   
 ## 1-3 Run:
-In the terminal or command window, navigate the directory to this project's directory *AutoEncoderNN* and then run the code using either of the following commands:
+In the terminal or command window, navigate to the directory of this project *AutoEncoderNN* and then run the code using either of the following commands:
 
 `jupyter notebook Anomaly_Detection.ipynb`
 
