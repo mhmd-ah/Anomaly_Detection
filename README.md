@@ -28,3 +28,12 @@ In the terminal or command window, navigate to the directory of this project *Au
 or 
 
 `ipython notebook Anomaly_Detection.ipynb`
+
+
+## 2- LSTM
+
+
+
+
+
+
